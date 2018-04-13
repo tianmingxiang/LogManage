@@ -1,0 +1,4 @@
+C:\Users\YunShu\source\repos\Log\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+C:\Users\YunShu\source\repos\Log\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
+F:\Git\LogManage\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+F:\Git\LogManage\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
